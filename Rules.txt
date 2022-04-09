@@ -1,0 +1,24 @@
+Green square - Player
+Control: arrows
+
+---Enemies---
+
+Сommon enemy:
+Red
+Move vertically/horizontally
+
+Stalker:
+Yellow
+Moving behind the player, but sometimes make mistakes
+Slower than common enemies
+
+Madman:
+Purple
+Periodically "resting" by staying in place
+After resting, moves randomly at a fast speed across the field
+
+
+
+Goal: collect the blue dots scattered across the field
+
+You can change the parameters in the code
